@@ -14,3 +14,8 @@ libuv
 Event Loop: https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ 
 ![image](https://user-images.githubusercontent.com/66877/222959315-fef28ad3-8bdb-44f1-a503-81b9f16faabe.png)
 
+
+Node Model 
+![image](https://user-images.githubusercontent.com/66877/222959695-b7e60f74-e41a-4bce-906d-f200bb423610.png)
+
+
