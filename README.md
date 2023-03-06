@@ -1,3 +1,7 @@
+How Js Works
+https://medium.com/jspoint/how-javascript-works-in-browser-and-node-ab7d0d09ac2f
+
+
 Processes & Threads 
 ![process-threads](https://user-images.githubusercontent.com/66877/222950275-99c61aba-32b2-420a-96ad-3d570973a877.png)
 
@@ -30,3 +34,7 @@ Observer Pattern
 Job Queue / Microtask Queue
 ![image](https://user-images.githubusercontent.com/66877/223182197-d87a4be6-bd3f-4eca-9c4a-ad4ec695f9f7.png)
 ![image](https://user-images.githubusercontent.com/66877/223182706-3eb7c957-2f04-46fa-8e25-5478d6198dcb.png)
+
+
+Scaling NodeJS
+https://www.freecodecamp.org/news/scaling-node-js-applications-8492bd8afadc/
