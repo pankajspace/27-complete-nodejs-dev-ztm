@@ -3,4 +3,5 @@
 // require("./02-events")
 // require("./03-promises")
 // require("./04-async-await")
-require("./05-spread")
+// require("./05-spread")
+require("./06-finally")

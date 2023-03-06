@@ -25,6 +25,8 @@ const getData = async () => {
     console.log("users", users.slice(0, 2))
   } catch (error) {
     console.log(error)
+  } finally {
+    console.log("finally")
   }
 }
 
