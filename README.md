@@ -11,6 +11,10 @@ libuv
 ![libuv2](https://user-images.githubusercontent.com/66877/222951069-3f4d2822-0668-4b34-9734-e7213b799c4d.png)
 
 
+JavaScript Runtime
+![image](https://user-images.githubusercontent.com/66877/223119768-25d6b069-e3fa-4e9a-a934-c802fee03122.png)
+
+
 Event Loop: https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ 
 ![image](https://user-images.githubusercontent.com/66877/222959315-fef28ad3-8bdb-44f1-a503-81b9f16faabe.png)
 
