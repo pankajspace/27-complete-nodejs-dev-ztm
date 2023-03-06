@@ -19,3 +19,7 @@ Node Model
 ![image](https://user-images.githubusercontent.com/66877/222959695-b7e60f74-e41a-4bce-906d-f200bb423610.png)
 
 
+Observer Pattern
+![image](https://user-images.githubusercontent.com/66877/223073292-aa145f76-1fab-40bf-872b-68b83bb4d9fb.png)
+
+
