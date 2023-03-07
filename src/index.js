@@ -7,4 +7,5 @@
 // require("./06-finally")
 // require("./07-for-await-of")
 // require("./08-parallel-sequence-race")
-require("./09-all-settled")
+// require("./09-all-settled")
+require("./10-http")
