@@ -38,3 +38,7 @@ Job Queue / Microtask Queue
 
 Scaling NodeJS
 https://www.freecodecamp.org/news/scaling-node-js-applications-8492bd8afadc/
+
+
+10 Things I Regret About Node.js - Ryan Dahl
+https://www.youtube.com/watch?v=M3BM9TB-8yA
